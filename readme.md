@@ -91,4 +91,4 @@ All Rights Reserved.
 
 ## サポート・連絡先
 
-不具合報告やフィードバックは、[app_div@sugerfield.club] までご連絡ください📩  
+不具合報告やフィードバックは、Github までご連絡ください📩  
